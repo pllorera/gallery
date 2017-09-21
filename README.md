@@ -13,7 +13,7 @@
  The images to be displayes were grouped by 10 images per page. 
  
  A bigger image is displayed as pop-up dialog when the thumbnail image is clicked.
- NOTE: The image displayed on the pop-up dialog is different from the clicked thumbnail image.
+ NOTE: I observed that the image displayed on the pop-up dialog is different from the clicked thumbnail image.
  
  The page is responsive design and is able to view properly on different screen sizes.
  
@@ -38,4 +38,7 @@
  
  NOTE: For <768px viewport width, the image pop up is displayed on full screen otherwise,
  pop up is displayed as regular md custom dialog.
+
+
+ 
  
